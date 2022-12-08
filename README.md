@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 ### My stats
 
 <div style="width: 100%; display: flex; justify-content: center; align-items: center;">
-  <img align="left" alt="Maubry94's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Maubry94&show_icons=true&theme=github_dark&hide_border=true" />
+  <img align="center" alt="Maubry94's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Maubry94&show_icons=true&theme=github_dark&hide_border=true" />
   <br><br>
-  <img align="left" alt="Maubry94's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maubry94&langs_count=5&hide_border=true&theme=github_dark&show_icons=true" />
+  <img align="center" alt="Maubry94's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maubry94&langs_count=5&hide_border=true&theme=github_dark&show_icons=true" />
 <div>
