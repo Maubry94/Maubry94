@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on secret (haha)
 - 🌱 I’m currently learning Vue
+- ⚡ Fun fact: I am more active on other people's repositories than mine
 
 ### My Languages and Tools:
 
